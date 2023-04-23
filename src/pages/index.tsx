@@ -5,7 +5,6 @@ function index() {
   return (
     <div className='app'>
       <NavBar/>
-      
     </div>
   )
 }
